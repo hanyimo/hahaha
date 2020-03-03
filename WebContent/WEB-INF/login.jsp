@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>登录</title>
+<title>Git学习中...</title>
 </head>
 <body>
-	<h1>登陆页面</h1>
-	<form action="">
-		name:<input name="name" value="name">
-	</form>
+	<h1>网课第一天下午最后一节课练习</h1>
 </body>
 </html>
